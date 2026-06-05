@@ -1,1 +1,3 @@
 this is file 04.
+System.out.println("hello world");
+print("hello python")
